@@ -1,4 +1,4 @@
-baseURL = "https://my-go-hub.netlify.com/"
+baseURL = "https://dany-ismail.site/"
 languageCode = "en-us"
 title = "GoHub"
 theme = "github-style"
@@ -17,8 +17,8 @@ copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-styl
   email = "dany_arie@yahoo.com."
   utterances = "example/example.github.io"
   avatar = "coffee.jpeg"
-  url = "https://my-go-hub.netlify.com/"
-  baseURL = "https://my-go-hub.netlify.com/"
+  url = "https://dany-ismail.site/"
+  baseURL = "https://dany-ismail.site/"
   recent_posts_number = 4
   
 
