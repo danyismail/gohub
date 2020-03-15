@@ -1,0 +1,34 @@
+baseURL = "https://dany-ismail.dev/"
+languageCode = "en-us"
+title = "GoHub"
+theme = "github-style"
+paginate = 5
+PaginatePath ="page"
+copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
+
+[params]
+  author = "Dany Ismail"
+  description = "Iam a script kiddy"
+  github = "danyismail"
+  facebook = "example"
+  twitter = "dany_arie"
+  misskey = "user profile url"
+  mastodon = "user profile url"
+  email = "dany_arie@yahoo.com."
+  utterances = "example/example.github.io"
+  avatar = "coffee.jpeg"
+  url = "https://localhost:1313"
+  baseURL = "https://localhost:1313"
+  recent_posts_number = 4
+  
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+paginate = 5
+
+
+
