@@ -45,7 +45,7 @@ Senior High School YKPP2, Palembang
 
 ### WORKING EXPERIENCE	
 
-•	IT Staff at PT. Solusi Layanan Mandiri  2007 – 2012	
+`•	IT Staff at PT. Solusi Layanan Mandiri  2007 – 2012	`
 
 ➢	Assemby and Instalation Self Service Kiosk, assist all programmer needs like pc or software installation 
 
@@ -53,17 +53,17 @@ Senior High School YKPP2, Palembang
 
 ➢	Instalation, assembly and trouble shooting computer hardware and software
 
-•	Field Engineer at PT Datindo Infonet Prima  2014 – 2016
+`•	Field Engineer at PT Datindo Infonet Prima  2014 – 2016`
 
 ➢	Doing Preventive and Corrective Maintenance ATM machine based on SLA
 
-•	Repair Center Technician at PT Swadharma Sarana Informatika  2016 –2018
+`•	Repair Center Technician at PT Swadharma Sarana Informatika  2016 –2018`
 
 ➢	Repair and fixing modular parts of any brands ATM like IBM, Wincor, NCR, Hyosung , Diebold
 
 
 
-•	Backend Engineer at PT. Harmonix Teknologi Peentar   2018 -2019
+`•	Backend Engineer at PT. Harmonix Teknologi Peentar   2018 -2019`
 
 ➢	Make integration between apps and POS Hardware and created Kimia Farma Apotek and Klinik Sales Dashboard
 
@@ -72,7 +72,7 @@ Senior High School YKPP2, Palembang
 ➢	For Data Visualization and ETL using Tableau
 
 
-•	Backend Engineer at PT. Shopciety Digital Indonesia  2019-2020
+`•	Backend Engineer at PT. Shopciety Digital Indonesia  2019-2020`
 
 ➢	Maintenance code ,release new featured, fix vulnerability on web app,create reporting on Postgesql
 
