@@ -5,13 +5,13 @@ draft: false
 layout: "about"
 ---
 
-### Hello World
+## Hello World
 
 Hi, name is Dany...you can call me anything like the variable on the programming.. and you can pass anything method you like
 
-CURRICULUM VITAE
+### CURRICULUM VITAE
 
-BIODATA
+### BIODATA
 
 Name : Dany Ismail Perdana
 Sex : Male
@@ -21,12 +21,12 @@ Phone number : 081284087627
 Website : https://dany-ismail.herokuapp.com
 
 
-EDUCATION
+### EDUCATION
 
 Senior High School YKPP2, Palembang
 
 
-COURSE
+### COURSE
 
 •	Microsoft Office 2003 @ Institut Komputer Nasional Kebayoran Lama
 •	Network Engineer @LP2M Array Depok
@@ -34,7 +34,7 @@ COURSE
 •	Full Stack Developer Bootcamp @ Hacktiv8 Jakarta
 
 
-WORKING EXPERIENCE	
+### WORKING EXPERIENCE	
 
 •	IT Staff at PT. Solusi Layanan Mandiri  2007 – 2012	
 ➢	Assemby and Instalation Self Service Kiosk, assist all programmer needs like pc or software installation 
@@ -60,7 +60,7 @@ WORKING EXPERIENCE
 ➢	Maintenance code ,release new featured, fix vulnerability on web app,create reporting on Postgesql
 ➢	The technology used is Go,gin framework, JWT ,and  RDBMS used is Postgresql
 
-PORTFOLIO 
+### PORTFOLIO 
 
 `https://pos.kimiafarma.co.id/`
 
@@ -72,7 +72,7 @@ PORTFOLIO
 
 
 
-SKILL
+### SKILL
 
 •	Node JS
 •	Golang
