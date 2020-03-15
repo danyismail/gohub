@@ -10,4 +10,4 @@ Kebanyakan programmer kurang memperhatikan kesehatan tubuhnya, sebagian mereka j
 
 Ada baiknya jika mereka mencoba untuk mensupply kandungan makanan atau minuman sehat di pagi atau esok harinya.
 
-Sebagai alternatif saya pribadi biasa mengkonsumsi air sereh setiap pagi. Ini bisa membantu meningkatkan imun tubuh sekaligus detox.
+Sebagai alternatif saya pribadi biasa mengkonsumsi air sereh setiap pagi. Ini bisa membantu meningkatkan imun tubuh sekaligus detox
